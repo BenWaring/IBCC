@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Border2.5
+  - Recticle
+  - explosion
+  - Border4
+  - Fire
+  - Border3
+  - Border2.5Y
+  - Border3.5Y
+  - Border2
+  - Border1Y
+  - Border1.5Y
+  - Border1.5
+  - Border.5
+  - Border.5Y
+  - Border1
+  - Border3.5
+  - Enemy
+  - Border3Y
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
